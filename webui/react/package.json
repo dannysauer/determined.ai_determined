@@ -30,7 +30,7 @@
     "hermes-parallel-coordinates": "^0.5.18",
     "history": "^4.10.1",
     "humanize-duration": "^3.27.0",
-    "io-ts": "^2.2.16",
+    "io-ts": "^2.2.17",
     "js-sha512": "^0.8.0",
     "js-yaml": "^4.1.0",
     "markdown-to-jsx": "^7.1.3",
