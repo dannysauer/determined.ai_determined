@@ -22,7 +22,7 @@
     "storybook:build": "NODE_PATH=src build-storybook -o build-storybook"
   },
   "dependencies": {
-    "ansi-to-html": "^0.7.1",
+    "ansi-to-html": "^0.7.2",
     "antd": "^4.21.4",
     "dayjs": "^1.10.7",
     "fp-ts": "^2.11.2",
