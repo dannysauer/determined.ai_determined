@@ -7,7 +7,7 @@ rstfmt==0.0.10
 sphinx-reredirects>=0.0.1
 sphinx-copybutton>=0.4.0
 sphinx-sitemap>=2.2.0
-sphinx==4.2.0
+sphinx==5.2.1
 
 # Theme
 furo==2021.10.9
