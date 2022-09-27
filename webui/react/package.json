@@ -102,7 +102,7 @@
     "@types/react-router-dom": "^5.1.6",
     "@types/react-transition-group": "^4.4.0",
     "@types/react-window": "^1.8.5",
-    "@types/resize-observer-browser": "^0.1.4",
+    "@types/resize-observer-browser": "^0.1.7",
     "@types/segment-analytics": "0.0.33",
     "@types/smoothscroll-polyfill": "^0.3.1",
     "@types/sprintf-js": "^1.1.2",
