@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:kinetic
 MAINTAINER Determined AI <hello@determined.ai>
 
 RUN apt-get update -yq \
