@@ -15,3 +15,4 @@ furo==2021.10.9
 
 # live.py
 watchdog
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
